@@ -1,0 +1,30 @@
+All controll changing shape is under file "mygl.cpp"'s "createCharactor" 
+function.
+
+1. Head
+	to rotate head one can change parameter of addNode function's
+	3rd line under comment of "HEAD"
+
+2. Left Leg
+	to rotate upper part one can change 3rd line parameter of 
+	'addNode' function under 'left leg' comment
+	to rotate lower part one can change 3rd line parameter of 
+	'addNode' function under 'left upper leg' comment
+
+3. Right Leg
+	to rotate upper part one can change 3rd line parameter of 
+	'addNode' function under 'right leg' comment
+	to rotate lower part one can change 3rd line parameter of 
+	'addNode' function under 'right upper leg' comment
+
+4. Left Hand
+	to rotate upper part one can change 3rd line parameter of 
+	'addNode' function under 'left hand' comment
+	to rotate lower part one can change 3rd line parameter of 
+	'addNode' function under 'left hand lower hand control' comment
+
+5. Right Hand
+	to rotate upper part one can change 3rd line parameter of 
+	'addNode' function under 'right hand' comment
+	to rotate lower part one can change 3rd line parameter of 
+	'addNode' function under 'right hand lower hand control' comment
